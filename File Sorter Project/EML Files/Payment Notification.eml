@@ -1,0 +1,305 @@
+Received: by 2002:a05:6a10:82e9:b0:73b:11c8:ca7c with SMTP id q9csp5645154pxg;
+        Tue, 25 Aug 2026 09:15:33 -0700 (PDT)
+Received: from a3-3.smtp-out.eu-west-1.amazonses.com (a3-3.smtp-out.eu-west-1.amazonses.com. [54.240.3.3])
+        by mx.google.com with ESMTPS id ffacd0b85a97d-482df274bafsi1676399f8f.207.2026.08.25.09.15.32
+        for <mkamran.azmat@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Tue, 25 Aug 2026 09:15:32 -0700 (PDT)
+From: "paymentnotifications@transfermate.com"
+	<paymentnotifications@transfermate.com>
+To: "mkamran.azmat@gmail.com" <mkamran.azmat@gmail.com>
+Subject: Payment Notification
+Thread-Topic: Payment Notification
+Thread-Index: ATA2LTM0NxIVejCJW/rFGQ6W4fv6qw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Tue, 25 Aug 2026 16:15:32 +0000
+Message-ID:
+	<010201a039b49a88-64d0f530-9f52-4135-a1f8-f26ca661b15f-000000@eu-west-1.amazonses.com>
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+received-spf: pass (google.com: domain of
+ 010201a039b49a88-64d0f530-9f52-4135-a1f8-f26ca661b15f-000000@ses-713-ie.transfermate.com
+ designates 54.240.3.3 as permitted sender) client-ip=54.240.3.3;
+Content-Type: multipart/alternative;
+	boundary="_000_010201a039b49a8864d0f5309f524135a1f8f26ca661b15f000000e_"
+MIME-Version: 1.0
+
+--_000_010201a039b49a8864d0f5309f524135a1f8f26ca661b15f000000e_
+Content-Type: text/plain; charset="us-ascii"
+
+
+[TransferMate Logo]
+PAYMENT NOTIFICATION EMAIL
+Dear Mr Muhammad Kamran Azmat,
+
+Please be advised that TransferMate has processed the below payment on your behalf.
+
+Student details
+Student Name:   Mr Muhammad Kamran Azmat
+Student address:        167 Wanstead Park Road, Ilford
+Student number:         GH1058279
+Payment details
+
+Product Amount
+Tuition EUR 1262
+
+
+Paid amount
+Beneficiary name        Gisma University of Applied Sciences
+Total paid *    EUR 1262
+Payment date    25 Aug, 2026
+Transaction ID  3120057
+
+Transaction ID is the unique ID for this booking. Please use it on all correspondence relating to this booking.
+
+Should you have any questions, please contact us by clicking here<https://transfermateeducation.com/en/customerservice.aspx>.
+
+Kind regards,
+TransferMate
+
+* The Total Paid amount might vary from the Product's Price in case of previously paid deposits and/or incomplete payment amounts.
+
+--_000_010201a039b49a8864d0f5309f524135a1f8f26ca661b15f000000e_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <CB8A84C631A88543B6DE8455EB8AB32D@1>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+<style type="text/css">
+    html, body {  padding:0 !important; height:100% !important; }
+    img { border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; display:block; }
+    table { border-collapse:collapse !important; }
+    .preheader { display:none !important; visibility:hidden; opacity:0; color:transparent; height:0; width:0; overflow:hidden; mso-hide:all; }
+    a { text-decoration:underline; }
+   table[role="presentation"] td[align="left"],
+   table[role="presentation"] td[align="right"]{ 
+        text-align:center !important; 
+   }
+   .mobile-px-16{ padding-left:16px !important; padding-right:16px !important; }
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#ffffff;" bgcolor="#ffffff">
+<div style="width: 600px; max-width: 600px; margin: auto; border: 1px solid #00D2AE; border-radius: 12px;  align-items: center; justify-content: center;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-left: 8px; margin-right: 8px; background-color:#ffffff;" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td align="center" valign="top" style="padding:0;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" class="container" style="background-color:#ffffff; ">
+<tbody>
+<tr>
+<td style="height:10px;">&nbsp;</td>
+</tr>
+<tr>
+<td><img align="left" src="https://transfermateeducation.com/templates/partners/images/logo.png?v=2" alt="TransferMate Logo" border="0" style="float:left; margin-left: 18PX; display:block; border:0; outline:none; text-decoration:none; -ms-interpolation-mode:bicubic;"></td>
+</tr>
+<tr>
+<td class="p24" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #274185; padding:24px 24px 0 24px; font-size: 28px;">
+PAYMENT NOTIFICATION EMAIL</td>
+</tr>
+<tr>
+<td class="p24" style="padding:17px; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:17px; color:#274185;">
+Dear&nbsp;Mr Muhammad Kamran Azmat,<br>
+<br>
+Please be advised that TransferMate has processed the below payment on your behalf.<br>
+<br>
+</td>
+</tr>
+<tr>
+<td class="p24" style="padding:0px 24px 8px 24px; font-family: Arial, Helvetica, sans-serif; font-size:24px; line-height:28px; font-weight:600; color:#274185;">
+Student details </td>
+</tr>
+<tr>
+<td class="p24" style="padding:0 24px 24px 24px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; border-spacing:0;  overflow: hidden;">
+<tbody>
+<tr>
+<td style=" padding:0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; border-spacing:0;">
+<tbody>
+<tr>
+<td width="40%" valign="top" style="border-top-left-radius: 14px; border-bottom:1px solid #CBCBCB; background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px; mso-line-height-rule:exactly;">
+Student Name: </td>
+<td width="60%" valign="top" style="border-top-right-radius: 14px; border-bottom:1px solid #CBCBCB; background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px; mso-line-height-rule:exactly;">
+Mr Muhammad Kamran Azmat </td>
+</tr>
+<tr>
+<td width="40%" valign="top" style="border-bottom:1px solid #CBCBCB; background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px; mso-line-height-rule:exactly;">
+Student address: </td>
+<td width="60%" valign="top" style="border-bottom:1px solid #CBCBCB; background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px; mso-line-height-rule:exactly;">
+167 Wanstead Park Road, Ilford </td>
+</tr>
+<tr>
+<td width="40%" valign="top" style="border-bottom-left-radius: 14px;  background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Student number: </td>
+<td width="60%" valign="top" style="border-bottom-right-radius: 14px;  background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px; ">
+GH1058279 </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="p24" style="padding:0px 24px 10px 24px; font-family: Arial, Helvetica, sans-serif; font-size:24px; line-height:28px; font-weight:600; color:#274185;">
+Payment details </td>
+</tr>
+<tr>
+<td style="padding:0 24px;">
+<table role="presentation" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="line-height:0; font-size:0; border-top:1px solid #009ADE;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="p24" style="padding:0 24px 24px 24px;">
+<div style="height:10px;"></div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-radius: 10px; border-collapse:separate !important; overflow: hidden;">
+<tbody>
+<tr style="border: 1px solid #CBCBCB;">
+<td width="40%" valign="middle" style="border: none; color:#009ADE; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Product</td>
+<td width="60%" valign="middle" style="border: none; color:#009ADE; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Amount</td>
+</tr>
+<tr style="border: 1px solid #CBCBCB;">
+<td width="40%" valign="middle" style="border-top-left-radius: 14px; border-bottom-left-radius: 14px;  border: 1px solid #CBCBCB; background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Tuition</td>
+<td width="60%" valign="middle" style="border-top-right-radius: 14px; border-bottom-right-radius: 14px; border: 1px solid #CBCBCB; background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px;">
+<strong><span style="color: #009ADE;">EUR</span> 1262</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0 24px;">
+<table role="presentation" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="line-height:0; font-size:0; border-top:1px solid #009ADE;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0 24px;">
+<table role="presentation" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="line-height:0; height: 20px; font-size:0; ">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<div style="height:10px;"></div>
+</td>
+</tr>
+<tr>
+<td style="height: 10px;"></td>
+</tr>
+<tr>
+<td class="p24" style="padding:0px 24px 8px 24px; font-family: Arial, Helvetica, sans-serif; font-size:24px; line-height:28px; font-weight:600; color:#274185;">
+Paid amount </td>
+</tr>
+<tr>
+<td class="p24" style="padding:0 24px 24px 24px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;  border-spacing:0;  overflow: hidden;">
+<tbody>
+<tr>
+<td width="40%" valign="top" style="border-bottom: 1px solid #CBCBCB; border-top-left-radius: 14px;  background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Beneficiary name</td>
+<td width="60%" valign="top" style="border-bottom: 1px solid #CBCBCB; border-top-right-radius: 14px;  background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px;">
+Gisma University of Applied Sciences</td>
+</tr>
+<tr>
+<td width="40%" valign="top" style="border-bottom: 1px solid #CBCBCB; background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Total paid <span style="color:#009ADE;">*</span></td>
+<td width="60%" valign="top" style="border-bottom: 1px solid #CBCBCB; background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px;">
+EUR 1262</td>
+</tr>
+<tr>
+<td width="40%" valign="top" style="border-bottom: 1px solid #CBCBCB; background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Payment date</td>
+<td width="60%" valign="top" style="border-bottom: 1px solid #CBCBCB; background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px;">
+25 Aug, 2026</td>
+</tr>
+<tr style="">
+<td width="40%" valign="top" style="border-bottom-left-radius: 14px;   background-color:#274185; color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:700; padding:12px 16px;">
+Transaction ID</td>
+<td width="60%" valign="top" style="border-bottom-right-radius: 14px;  background-color:#E2F2F7; color:#274185; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; font-weight:500; padding:12px 16px;">
+3120057</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="p24" style="padding:0 24px 16px 24px; font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:24px; color:#274185;">
+<p>Transaction ID is the unique ID for this booking. Please use it on all correspondence relating to this booking.</p>
+Should you have any questions, please contact us by clicking <a href="https://transfermateeducation.com/en/customerservice.aspx" style="color:#274185; text-decoration: underline; font-weight:bold;">
+here</a>. </td>
+</tr>
+<!-- // Begin Template Footer \\ --><!-- // Begin Template Footer \\ -->
+<tr>
+<td class="p24" style="padding:10px 24px 24px 24px;" valign="bottom">
+<div style="height: 10px;">&nbsp;</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size:16px; line-height:22px; color:#444659;">
+<div style="text-align: left;"><span>Kind regards,</span><br>
+<span style="font-weight:600; color:#274185;">TransferMate</span> </div>
+</td>
+<td style="text-align: right; align-items: right; vertical-align: middle; top: 50%;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- // End Template Footer \\ --><!-- // End Template Footer \\ -->
+<tr>
+<td style="padding:0 24px;">
+<table role="presentation" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="line-height:0; font-size:0; border-top:1px solid #009ADE;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="p24" style="padding:16px; text-align:left; font-family: Arial, Helvetica, sans-serif; font-size:14px; line-height:16px; color:#ADADAD;">
+* The Total Paid amount might vary from the Product's Price in case of previously paid deposits and/or incomplete payment amounts.
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+
+--_000_010201a039b49a8864d0f5309f524135a1f8f26ca661b15f000000e_--
